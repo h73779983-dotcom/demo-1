@@ -1,1 +1,1 @@
-"Welcome to Polytechnic College" 
+"Welcome to PUC college" 
